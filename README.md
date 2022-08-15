@@ -1,6 +1,6 @@
 # Hey there! 👋🏻
 
-📌 My name is **Prajval H L**. I'm a `Full-Stack` Web Developer. I've been learning web development and polishing my skills in the `MERN` stack for the last six months.
+📌 My name is **Prajval H L**. I'm a `Frontend` Web Developer. I've been learning web development and polishing my skills in the `MERN` stack for the last six months.
 
 📌 I like discussing anything and everything about `JavaScript`.
 
